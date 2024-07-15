@@ -1,0 +1,11 @@
+Throne_Affiliate_Report
+https://admin.throneneataffiliates.com/advanced_reports.php?task=run_report&id=1&filters=true&date_range%5Bdate_from%5D=2024-01-09&date_range%5Bdate_to%5D=2024-07-09&frm_product=&frm_brand=&frm_plan=&frm_dealType=&frm_object=&frm_media=&frm_campaign=&frm_campaign_name=&frm_country=&frm_language=&frm_status=&frm_search_profile=&frm_username=&frm_affid=&frm_uservar_key=&frm_uservar_val=&frm_uservar_key_not=no&join_date_range%5Bdate_from%5D=&join_date_range%5Bdate_to%5D=&frm_parent_id=&frm_parent_username=&frm_exclude_dnp=0&frm_group=11&frm_group1=1&frm_group2=0&frm_categories%5B%5D=1&frm_categories%5B%5D=10&frm_categories%5B%5D=18&frm_categories%5B%5D=3&frm_discard_negative=&report_bttn=Run+Report
+
+Throne_LandingPage_Report
+https://admin.throneneataffiliates.com/landing-pages
+
+Realm_Affiliate_Report
+https://admin2.neataffiliates.com/advanced_reports.php?task=run_report&id=1&filters=true&date_range%5Bdate_from%5D=2024-01-10&date_range%5Bdate_to%5D=2024-07-10&frm_product=&frm_brand=&frm_plan=&frm_dealType=&frm_object=&frm_media=&frm_campaign=&frm_campaign_name=&frm_country=&frm_language=&frm_status=&frm_search_profile=&frm_username=&frm_affid=&frm_uservar_key=&frm_uservar_val=&frm_uservar_key_not=no&join_date_range%5Bdate_from%5D=&join_date_range%5Bdate_to%5D=&frm_parent_id=&frm_parent_username=&frm_exclude_dnp=0&frm_group=1&frm_group1=11&frm_group2=0&frm_categories%5B%5D=1&frm_categories%5B%5D=126&frm_categories%5B%5D=123&frm_categories%5B%5D=3&frm_discard_negative=&report_bttn=Run+Report
+
+Realm_LandingPage_Report
+https://admin2.neataffiliates.com/landing-pages
